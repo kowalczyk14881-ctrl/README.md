@@ -1,6 +1,6 @@
 # Мой смарт-контракт Tether (USDT)
 
-<img src="assets/logo.png" width="120"/>
+<img src="assets/images.webp" width="120"/>
 
 Это смарт-контракт для работы с токеном Tether (USDT).
 
